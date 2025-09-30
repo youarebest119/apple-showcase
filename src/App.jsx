@@ -4,7 +4,7 @@ import Application from './Application'
 import gsap from 'gsap';
 import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import MotionPathPlugin from 'gsap/MotionPathPlugin';
-import MotionPathHelper from 'gsap-trial/MotionPathHelper';
+import MotionPathHelper from 'gsap/MotionPathHelper';
 // import { MotionPathHelper } from 'gsap/MotionPathHelper';
 
 // new Lenis({

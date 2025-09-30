@@ -1,7 +1,7 @@
 import { useGSAP } from "@gsap/react";
 import "./FollowPath.scss";
 import gsap from "gsap";
-import MotionPathHelper from 'gsap-trial/MotionPathHelper';
+import MotionPathHelper from 'gsap/MotionPathHelper';
 
 const FollowPath = () => {
     useGSAP(() => {
